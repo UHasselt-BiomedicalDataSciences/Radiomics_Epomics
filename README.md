@@ -1,2 +1,3 @@
-# Radiomics_Epomics
-Radiomics Epomics
+# Radiomics-Epomics
+
+Predicting long-term disability progression in multiple sclerosis (MS) remains a significant challenge. Existing prognostic models often rely on single-modality data or conventional metrics, such as lesion count on magnetic resonance imaging (MRI) or latency values from evoked potentials (EPs), overlooking subclinical progression. This study aimed to develop a multimodal machine learning (ML) pipeline integrating clinical, high-dimensional MRI, and motor EP time-series (EPTS) features to predict disability worsening in MS. We showed that combining high-dimensional structural and functional markers improves the prediction of disability worsening compared to single modality models. The script will become available upon publication of the manuscript.
