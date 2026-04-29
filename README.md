@@ -1,6 +1,6 @@
 # Combining Magnetic Resonance Imaging and Evoked Potentials Enhances Machine Learning Prediction of Multiple Sclerosis Disability Worsening
 
-This folder provides the core code used in the paper:
+This folder provides the core code used in the [paper]((https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1625837/full)):
 
 **Aerts, Werthen-Brabants, Khan et al. (2026). Combining Magnetic Resonance Imaging and Evoked Potentials Enhances Machine Learning Prediction of Multiple Sclerosis Disability Worsening**
 
