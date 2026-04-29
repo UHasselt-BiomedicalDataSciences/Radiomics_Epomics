@@ -58,6 +58,7 @@ If this code is useful in your work, please cite:
   journal={Frontiers in Immunology},
   volume={17},
   pages={1625837},
-  publisher={Frontiers}
+  publisher={Frontiers},
+  url={https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1625837/full}
 }
 ```
